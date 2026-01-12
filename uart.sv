@@ -32,5 +32,8 @@ module baud_rate_generator #(
       baud_tick <= 0;
     end    
     end
+    else begin
+        baud_tick <= 0;
+    end
   end
 endmodule
