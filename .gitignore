@@ -1,0 +1,32 @@
+# Vivado Project Files
+*.jou
+*.log
+*.str
+*.xpr.backup
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.runs/
+
+# Simulation Files
+*.wdb
+*.wcfg
+*.vcd
+*.saif
+*.pb
+
+# Synthesis Files
+*.dcp
+*.bit
+*.ltx
+
+# OS Files
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Temporary Files
+*.tmp
+*.bak
